@@ -8,5 +8,14 @@
 
 // Components
 @import './components/Navbar';
+@import './components/Banner';
 
 // Pages
+@import './pages/About/About';
+@import './pages/Cart/Cart';
+@import './pages/Contact/Contact';
+@import './pages/Home/Home';
+@import './pages/Product/Product';
+@import './pages/Products/Products';
+@import './pages/Signin/Signin';
+@import './pages/Signout/Signout';
